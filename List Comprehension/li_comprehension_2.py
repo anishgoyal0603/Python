@@ -7,4 +7,3 @@ print(nums)
 nums1 = [i for i in range(100) if 50<=i<=60]
 print(nums1)
 
-// did this
