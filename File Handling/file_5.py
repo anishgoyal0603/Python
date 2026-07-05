@@ -5,4 +5,3 @@ print(file_object.read()) # prints nothing
 
 file_object.close()
 
-print("new work")
