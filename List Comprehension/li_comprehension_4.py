@@ -7,3 +7,5 @@ print(classifications)  # Output: ['odd', 'even', 'odd', 'even', 'odd', 'even']
 values = [5, -3, 8, -1, 12, -7]
 non_negative = [num if num >= 0 else 0 for num in values]
 print(non_negative)  # Output: [5, 0, 8, 0, 12, 0]
+
+# li_comprehension_4.py
