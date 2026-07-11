@@ -7,3 +7,5 @@ for i in range(2, 5):
     multiplication.append(row)
 
 print(multiplication)
+
+# li_comprehension
